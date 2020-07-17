@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+
+.back {
+    background-image: url('../images//menu1.jpg') !important;
+}
+
+.back1 {
+    font-family: 'Galada', cursive;
+}
+
+.back2  {
+    background-image: url('../images/Receipt.jpg') !important;
+}
+
+.body {
+    background-image: url('../images/background.jpg') !important;
+}
